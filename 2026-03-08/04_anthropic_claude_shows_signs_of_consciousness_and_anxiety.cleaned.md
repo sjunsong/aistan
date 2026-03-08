@@ -1,5 +1,5 @@
 ---
 skipped: true
 quality_score: 3
-quality_note: "Sensationalized clickbait tweet with hyperbolic claims lacking sources."
+quality_note: "Sensationalized clickbait with unverified claims lacking sources or evidence."
 ---

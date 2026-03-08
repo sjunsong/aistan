@@ -10,7 +10,7 @@ Don’t miss what’s happening
 
 Translate post
 
-![Image 2](./assets/06_openclaw_china_github_for_chinese_chat_app_integration_original/image-01.jpg)
+0:17
 
 
 ·
